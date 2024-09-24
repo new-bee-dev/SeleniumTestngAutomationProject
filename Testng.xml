@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Testing Heroku App">
+    <test name="Regression">
+        <classes>
+            <class name="BrokenImagesTest"/>
+            <class name="CheckboxTest"/>
+            <class name="ContextMenuTest"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
